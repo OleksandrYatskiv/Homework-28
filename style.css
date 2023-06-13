@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+table{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    border-spacing: 0;
+}
+
+td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
